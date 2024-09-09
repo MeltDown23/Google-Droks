@@ -5,7 +5,7 @@ import random
 import time
 import argparse
 
-print("This tool is only for PrimeSec PT Team.")
+print("MeltDown23.")
 
 def generate_google_dorks(target):
     sites = [
