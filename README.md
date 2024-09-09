@@ -97,7 +97,7 @@ Extracted URLs:
 
 You can find the source code and report issues at the official GitHub repository:
 
-[GitHub Repository](https://github.com/MeltDown23/google-dork-api-search)
+[GitHub Repository](https://github.com/MeltDown23/Google-Droks)
 
 ---
 
